@@ -1,0 +1,11 @@
+.elementor-52 .elementor-element.elementor-element-c559558{--display:flex;}.elementor-52 .elementor-element.elementor-element-a572111{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;}.elementor-52 .elementor-element.elementor-element-b0e217f{--display:flex;}.elementor-52 .elementor-element.elementor-element-4ddc425{--display:flex;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-52 .elementor-element.elementor-element-968475f{text-align:center;font-family:"Familjen Grotesk", Sans-serif;font-size:24px;font-weight:700;color:#A529A3;}.elementor-52 .elementor-element.elementor-element-8b11848{--display:flex;}.elementor-theme-builder-content-area{height:400px;}.elementor-location-header:before, .elementor-location-footer:before{content:"";display:table;clear:both;}/* Start custom CSS for text-editor, class: .elementor-element-968475f */.elementor-52 .elementor-element.elementor-element-968475f p, .elementor-52 .elementor-element.elementor-element-968475f a{
+    margin-bottom: 0;
+    padding-bottom: 0;
+    color: white;
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-a572111 */.elementor-52 .elementor-element.elementor-element-a572111  {backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px); /* Soporte para Safari */
+  background: rgba(255, 75, 151, 0.7);
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);}/* End custom CSS */
